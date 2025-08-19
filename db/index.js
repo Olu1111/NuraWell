@@ -1,13 +1,16 @@
-const { Pool } = require('pg');
+const { MongoClient } = require('mongodb');
 
-const pool = new Pool({
-  user: 'your_db_user',
-  host: 'localhost',
-  database: 'nurawell',
-  password: 'your_db_password',
-  port: 5432,
-});
+const uri = 'mongodb+srv://odukoya888:1111%40MastDream@cluster0.pxcg5dt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
+const client = new MongoClient(uri);
 
-module.exports = {
-  query: (text, params) => pool.query(text, params),
-};
+let db;
+
+async function connectDB() {
+  if (db) return db;
+  await client.connect();
+  db = client.db();
+  console.log('Connected to MongoDB');
+  return db;
+}
+
+module.exports = connectDB;

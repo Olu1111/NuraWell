@@ -1,0 +1,1689 @@
+{
+  "features": [
+    {
+      "feature_idx": 0,
+      "name": "questionID",
+      "type": {
+        "dtype": "int64",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 1,
+      "name": "questionTitle",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 2,
+      "name": "questionText",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 3,
+      "name": "questionLink",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 4,
+      "name": "topic",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 5,
+      "name": "therapistInfo",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 6,
+      "name": "therapistURL",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 7,
+      "name": "answerText",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 8,
+      "name": "upvotes",
+      "type": {
+        "dtype": "int64",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 9,
+      "name": "views",
+      "type": {
+        "dtype": "int64",
+        "_type": "Value"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "row_idx": 1,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Jason Lynch, MS, LMHC, LCAC, ADSIndividual & Couples Therapy",
+        "therapistURL": "https://counselchat.com/therapists/jason-lynch-ms-lmhc-lcac-ads",
+        "answerText": "I've never heard of someone having \"too many issues\" for therapy to be effective. A competent therapist will assist you in identifying the root causes of your problems and treat those first. If the underlying issues are addressed, your various symptoms should improve. For example, a history of sexual trauma can cause sleep disturbances, depression, anxiety, and low self-worth. I would start by addressing the underlying trauma using EMDR Therapy. EMDR allows the client to process unresolved trauma and to address negative core beliefs that develop in response to the trauma. By addressing these negative beliefs about ourselves, we can improve our self-esteem and feelings of self-worth.",
+        "upvotes": 2,
+        "views": 386
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Shakeeta TorresFaith Based Mental Health Counselor",
+        "therapistURL": "https://counselchat.com/therapists/shakeeta-torres",
+        "answerText": "Absolutely not.  I strongly recommending working on one issue/need at a time.  In therapy you will set smart goals and objectives that will help you reach your goals.  I see you as a survivor and not a victim.  Best wishes to you.",
+        "upvotes": 2,
+        "views": 3071
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 3,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Noorayne ChevalierMA, RP, CCC, CCAC, LLP (Michigan)",
+        "therapistURL": "https://counselchat.com/therapists/noorayne-chevalier",
+        "answerText": "Let me start by saying there are never too many concerns that you can bring into counselling. In fact, most people who come to see me for counselling have more than one issue they would like to work on in psychotherapy and most times these are all interconnected. In counselling, we work together, collaboratively, to figure out which issues you would like to address first and then together we develop an individualized plan of care. Basically, it’s like a road map of where you want to go, how are you going to get there, looking at stopovers, some scenic routes others possibly not so scenic, however, necessary. Of course, these plans can also change due to internal (what we have control over like our thoughts, feelings and behaviours) or external reasons (those things that are outside our control). I would encourage you to take the next step and reach out to a professional you can trust and build rapport with by co-journeying through whatever concerns you have by examining what has been working so far as you have learned to cope with some of your issues like insomnia, depression and anxiety, as well as being a breast cancer survivor. Then to help you by developing new coping strategies. Psychotherapy can be such a powerful tool to help you get to where it is you want to be. I know you can do it and you will see first-hand how psychotherapy will help you to move past these points in your life where you are feeling stuck. I like to quote Nike where their motto is, “just do it.” You can do it.",
+        "upvotes": 2,
+        "views": 2643
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 4,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Toni Teixeira, LCSWYour road to healing begins here",
+        "therapistURL": "https://counselchat.com/therapists/toni-teixeira-lcsw",
+        "answerText": "I just want to acknowledge you for the courage to take the step to get support. It can be overwhelming to have so many things going on, and it might be hard to figure out where to start. I truly believe that one of the biggest advantages to working with a therapist is that a therapist can help you prioritize and work with those issues that need to be addressed first and foremost. A therapist will help you with the flow of dealing with different aspects that come up. Some issues may even be related to one another. For examples, some clients with depression may also feel anxiety about their depression. Also, rest assured, many clients go to therapy for multiple issues. We are complex beings. I encourage you to reach out to a therapist and talk about this concern. You may find out that even upon the first meeting you will feel hopeful that you will be able to create a plan with a therapist to address your issues. I don't believe you have too many issues, I think starting sooner rather than later will put you on the path to healing. Good luck. I am rooting for you!",
+        "upvotes": 1,
+        "views": 256
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 5,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Kelly Freeman, MS, LPC\"Change Your Thoughts and you change the World.\" -Norman Vincent Peale",
+        "therapistURL": "https://counselchat.com/therapists/kelly-freeman-ms-lpc",
+        "answerText": "It's not really a question of whether you have too many issues for counseling but more what would you like to work on in counseling? You control the direction of sessions and depending on how you're feeling in a particular day can predict what direction that session takes. If you want to work on all the issues you've listed it will just take some dedication on your part to see through the counseling long enough to find a resolution to each of the issues that is satisfactory to you. You work at your own pace in counseling and it does seem like you may be overwhelmed with the ever-growing list. But you may just be in search of self improvement and making yourself better, which is a great thing. It seems as though you may need some form of resolution to what has happened in the past and to work through the trauma you have experienced. That may be the base of your counseling needs in which self esteem and depression/anxiety may fall underneath it as well. If you want to start counseling don't let what you need to work on overwhelm you. Find the counselor that best fits with you and together you both can tackle any issue.",
+        "upvotes": 1,
+        "views": 435
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 6,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Danielle PalmerRelationship & Individual Counseling",
+        "therapistURL": "https://counselchat.com/therapists/danielle-palmer",
+        "answerText": "There is no such thing as too much. Start where you're at today and move forward or backwards to figure out the rest. You don't need to be anything less or more than you are right now. It may be a longer journey, but it's one that can ideally lead to healing. I hope that happens for you.",
+        "upvotes": 1,
+        "views": 217
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 7,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Tracey PoirrierPolaris Counseling & Consulting Services PLLC ",
+        "therapistURL": "https://counselchat.com/therapists/tracey-poirrier",
+        "answerText": "The most direct answer is no. I would venture to guess that several of the things you are feeling (symptoms) are connected. I would recommend a trauma counselor. You have several strengths (resources) that you are able to pull from and I would encourage you to focus on them as you deal with the issues you have placed on the back burner for so long. Sometimes people are afraid to address things because they feel or believe that they won’t be able to handle it. Compare it to a tornado. The storm has passed, but you are still in hiding for fear of the aftermath (the mess left behind). A good therapist is like a personal organizer to help you.",
+        "upvotes": 1,
+        "views": 1064
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 8,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Heather BradleyHelping you heal from trauma and live meaningful lives",
+        "therapistURL": "https://counselchat.com/therapists/heather-bradley",
+        "answerText": "It is never too late to get help and begin making significant changes and improvements in your life.  The right time is when you feel ready and open to change.  Sometimes when we have a history of trauma, like sexual abuse, the impact of that trauma can affect many areas of our lives as adults.  Working with a therapist who specializes in trauma is a great way to begin developing skills to manage present day life, learn to regulate your emotions and nervous system when you become triggered, and then in a safe environment have the opportunity to process past traumas so you can live your present life with more ease and joy.  People can and do recover from the impacts of trauma at any stage in their life.  It is never too late and you can feel better",
+        "upvotes": 1,
+        "views": 1024
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 9,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Sara Makin, M.S.Ed.,NCC#1 Best Selling Author & Counselor",
+        "therapistURL": "https://counselchat.com/therapists/sara-makin-m-s-ed-ncc",
+        "answerText": "You have been through so much and it sounds like you have a lot of things that have complied over the years. Regardless of the struggles you have been through, you do not have too many issues for counseling. Many times when someone starts out their counseling and healing journey, there are multiple things they would like to address and work on. If you decide to start counseling, you and your therapist can decide collaboratively what you would like to process and work on first. Be sure to express to your counselor if any of the above experiences you've been through is causing a lot of distress , as many times the first things addressed are the ones that are presently affecting your life or you emotionally. Often times when we experience negative situations in our life , but do not address them, they bottle up inside us and can manifest in other ways, such as depression or even physical symptoms like IBS or neck pain.  Counseling can give these bottled up emotions and situations a release. Given the situation you shared, not only do I not think that you have too many issues for counseling, but believe that you will be a great candidate and can get a lot from it.",
+        "upvotes": 1,
+        "views": 1809
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 10,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Wendy MitaWorry less, live more!",
+        "therapistURL": "https://counselchat.com/therapists/wendy-mita",
+        "answerText": "Absolutely not!  In fact, most people have many issues,  A lot lot of the issues you are describing commonly go hand in hand ( in \"therapy speak\" we call it co-morbid conditions)I would venture that most of the feelings you are struggling with stem from your early trauma.  You would benifit tremendously from counseling!  A good therapist will develope a treatment plan that addresses all of your needs. With help you could definitely live a happy life without all of your anxiety and depression getting in the way!",
+        "upvotes": 1,
+        "views": 774
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 11,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Danielle JoelCompassionate Mental Health Care",
+        "therapistURL": "https://counselchat.com/therapists/danielle-joel-2",
+        "answerText": "This is a great question! I personally don't believe that any client could ever have too many issues for counseling. In fact, that type of thinking may be stopping you from seeking counseling, so it may be hindering you from getting the help you need. In fact, all of what you described points to the importance of you seeking help in order to cope with the many challenges in your life. If you seek counseling, it will be important for you to understand that you may need to remain in counseling for a sustained period of time in order to work through each of these issues. All of these issues won't be able to be solved right away or in a brief period of time. Counseling will take commitment and hard work, but it is possible for you to recover and heal from all of the issues you described.Many clients come into counseling with numerous issues rather than just one particular thing. Most of the time, the issues relate to and exacerbate each other. We call these \"comorbid\" conditions, which means that two or more mental health problems exist at one time. A lot of the times, when you start to work on one issue, the other issues get better as a result.I encourage you to find a professional therapist that can help you learn how to cope with all of the mental health difficulties that you described. You deserve the help just as much as anyone else.",
+        "upvotes": 1,
+        "views": 438
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 12,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Ronica ClarkYou have questions I'm willing to try to give an answer",
+        "therapistURL": "https://counselchat.com/therapists/ronica-clark",
+        "answerText": "I don't think there is a thing as too many issues. It just going to take time to get through all of the issues.",
+        "upvotes": 0,
+        "views": 12
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 13,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Amber HarrisLife Can Suck, Let's Talk About It. ",
+        "therapistURL": "https://counselchat.com/therapists/amber-harris",
+        "answerText": "No, you do not have too many issues to address in counseling. A lot of people present with multiple issues they want to address, and that shows good insight. Usually in therapy you find that everything is connected together, and the issues are more intertwined than previous thought.",
+        "upvotes": 0,
+        "views": 59
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 14,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Amanda Sieg",
+        "therapistURL": "https://counselchat.com/therapists/amanda-sieg",
+        "answerText": "Counselors want to help you process whatever you come into therapy with! They can help guide you with where to start and how to start. Their intake paperwork will ask you questions about your life history so they can help you walk through each area. Don't be afraid to share these things upfront with your therapist so they can set goals with you and help you feel comfortable as you get started. It may take some time to explore the different areas, but that is normal! :)",
+        "upvotes": 0,
+        "views": 194
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 15,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Dr. Meredyth LawrynceServing Clients Nationwide",
+        "therapistURL": "https://counselchat.com/therapists/dr-meredyth-lawrynce",
+        "answerText": "You do not have too many issues to address in\ncounseling. Each concern can be worked thru at a pace that is comfortable for\nyou with a patient counselor, therapist.  You are valid, and your concerns are valid. You\nare worthy and deserve to get the support you desire.",
+        "upvotes": 0,
+        "views": 45
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 16,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Ashley \"Ashton\" BernalRenewed Hope Counseling",
+        "therapistURL": "https://counselchat.com/therapists/ashley-ashton-bernal",
+        "answerText": "I commend you for taking such a brave step in talking about everything you have been through. No one ever has \"too many issues\" to seek therapy and I would be willing to bet that many of these concerns are intertwined and once unraveled great relief is to follow. Best of luck on your journey toward healing. Most times our wounds lead us to the best parts of ourselves.",
+        "upvotes": 0,
+        "views": 46
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 17,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Bethany KelloggPlay Therapist",
+        "therapistURL": "https://counselchat.com/therapists/bethany-kellogg",
+        "answerText": "It sounds like you have been through a lot, but in therapy there's no such thing as too many issues. That's what it is there for.  I want to normalize that a lot of people feel they are 'too much' but this isn't true.  A lot of the issues you mentioned are interrelated and may be affecting the other. We are a whole person, and our physical health affects our mental health and vice versa.  Sometimes when you work on one issue in therapy, it can help alleviate some of the other issues.  It is easy to feel overwhelmed with all you have going on but a therapist can also help prioritize some of that and find goals to focus on.",
+        "upvotes": 0,
+        "views": 39
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 18,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Elena Engle, LMHC, EMDRVery Good Counseling",
+        "therapistURL": "https://counselchat.com/therapists/elena-engle-lmhc-emdr",
+        "answerText": "Often people feel like they are beyond saving, this is often not true. Finding the right therapist to work on these issues with and having them help. You may benefit from seeing a trauma specialist. If you located in Florida we offer EMDR therapy in-person or online.",
+        "upvotes": 0,
+        "views": 31
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 19,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Erin Pritchard, MA, LPCC-S | EMDR IntensivesSea Glass Counseling and Consultation",
+        "therapistURL": "https://counselchat.com/therapists/erin-pritchard-ma-lpcc-s-emdr-intensives",
+        "answerText": "You have been through so much - sounds like you are very resilient! And how brave of you to consider exploring counseling for the first time. Based on what you shared, I would encourage you to seek out a therapist who specializes in trauma, which can often show up as depressive and anxiety symptoms, and sleep disturbance later on in life. You do not have too many issues to explore. Often times people come to counseling with multiple things they want to focus on. A good therapist will take the time to help you sift through the topics you'd like to address, see how they might be connected, and help you work through them. Best of luck in your journey to greater mental wellness!",
+        "upvotes": 0,
+        "views": 162
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 20,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Robert Wade",
+        "therapistURL": "https://counselchat.com/therapists/robert-wade",
+        "answerText": "Not at all! Trauma can manifest itself in many ways, such as depression and anxiety. Trauma can also cause sleep issues, nightmares are what I hear about the most but it can also cause insomnia. Many abuse survivors can have low self esteem as well.I would suggest you begin treatment with handling the symptoms that are causing you the most issues. Learning how to regulate your emotions and tolerate distress will give you the building blocks to begin getting to the underlying cause which is the trauma. Once you process the trauma from the abuse and the medical issues, you should begin to feel better about yourself and feel better physically as well.",
+        "upvotes": 0,
+        "views": 104
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 21,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Gayle WeillSpecializing in relationships and parenting - additional certifications in Child-parent psychotherapy, Circle of Security-Parenting program, adoption competency, hypnosis, and EMDR",
+        "therapistURL": "https://counselchat.com/therapists/gayle-weill",
+        "answerText": "I’m wondering if you are thinking that you’d be inconveniencing the therapist by bringing too many issues to the sessions? The reality is that it’s actually very common for a person to come to therapy with a whole host of issues. In fact, it’s encouraged to go to therapy if there is a lot of stuff to work through. You would not be inconveniencing the therapist at all and I would really like you to consider beginning therapy with a clinician that you feel comfortable with. Best of luck to you!",
+        "upvotes": 0,
+        "views": 81
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 22,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Dr Traci KochendorferTime for you to \" Claim IT\" with over 15 years in health and wellness, Ph.D Psy.D D.D. F.P.L.C. recognized on TV and Magazines,",
+        "therapistURL": "https://counselchat.com/therapists/dr-traci-kochendorfer",
+        "answerText": "First you say I have so many issues then you say I've been happily married for almost 35 years ( as it is past tense).   Most counselors/therapists have multiple education or experience in areas.  It is about YOU.  Finding more about yourself.  You would enjoy it cause it allows finally an investment for yourself and a guide.   Don't you sometimes look at your nails or hair its been a long time since you got them professional care.  You been happily together with them for 35 years right.  But how does it feel when you have someone else guide and bring new energy to your hair and nails and you feel like a million bucks and amazing when you walk out.  Right?  Something to think about.  ✨🙏",
+        "upvotes": 0,
+        "views": 102
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 23,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Beverly PedrocheAccepting New Patients",
+        "therapistURL": "https://counselchat.com/therapists/beverly-pedroche",
+        "answerText": "Not possible! Your therapist will help you prioritize your treatment goals and often, those \"issues\" are intertwined and as you address one problem, another may resolve or become less problematic.",
+        "upvotes": 0,
+        "views": 85
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 24,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Emily LaFaveYou're probably wondering how I can help you?",
+        "therapistURL": "https://counselchat.com/therapists/emily-lafave",
+        "answerText": "Wow, that sounds really overwhelming. No, there are never too many or too little problems for therapy. I am a big advocate for picking the most pressing issue and putting our energy towards that to cope and then when feeling better, we can move on to the next thing. We can't be solve all issues at one time. We can take baby steps, but we will get there.",
+        "upvotes": 0,
+        "views": 154
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 25,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Jennifer Jenkins-BoitnottEMDRIA Approved Consultant & Certified EMDR Therapist",
+        "therapistURL": "https://counselchat.com/therapists/jennifer-jenkins-boitnott",
+        "answerText": "No, you don't have too many issues to address in counseling. Humans are complex, and just based on the little bit of information you have shared, it sounds like you have likely experienced quite a bit of trauma in your life. When we experience traumatic events (such as sexual abuse, surviving cancer) it has an impact on our mood and thoughts about ourselves. As a trauma specialist & EMDR therapist, I often have clients who have experienced a lot of difficult things in their life and may be entering therapy for the first time. The process of healing and learning more adaptive beliefs and coping strategies takes time, but it is never too late to start!",
+        "upvotes": 0,
+        "views": 144
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 26,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Tara Green, LCSWFeel alive again; solution focused and goal oriented therapy",
+        "therapistURL": "https://counselchat.com/therapists/tara-green-lcsw",
+        "answerText": "It can feel overwhelming sometimes when we reach a point in our lives when we say to ourselves; I think I want and/or need counseling.  This is especially true if we feel we have so many \"issues\" to work through and cover with a therapist that we may feel like we would not know where to even begin. We may feel that way because of our trauma in the past and our current problems, however, this should not stop you. When you work with a trained therapist, especially one who has experience working with your particular  issues that are impacting you the most you will find that little by little over time they can be worked through in counseling sessions with a therapist. Therapy is often not a linear process but more cyclical in nature and sometimes working on the most pressing things that are impacting your life helps to put others things into perspective. So to answer your question, no you do not have too many issues to address in counseling, despite feeling overwhelmed by this. Just unpack one thing at a time! Good luck!",
+        "upvotes": 0,
+        "views": 136
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 27,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Michele RameyMRTherapy, LLC- Because Help Is One Of A Kind",
+        "therapistURL": "https://counselchat.com/therapists/michele-ramey",
+        "answerText": "If you feel like you're too much, you need someone who doesn't feel like you are. Guess what?? That's what therapists are for. You are not too much! You don't have too much to work on! You are on the right platform! We are all here to help. Find someone and schedule a session. EMDR/Brainspotting for trauma, anxiety and low-self esteem issues, etc. LENS (Low Energy Neurofeedback System) for the insomnia, or you could do a sleep study to see why you can't sleep. Hope this helps!",
+        "upvotes": 0,
+        "views": 116
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 28,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Philippe BowerHealing with Philippe",
+        "therapistURL": "https://counselchat.com/therapists/philippe-bower",
+        "answerText": "First, thank you for being open and vulnerable by sharing with us online. Second, many of these \"issues\" you have mentioned are all interconnected. Often my clients have found that addressing past traumas helps diminish their depression. Which in turn can diminish the anxiety.  The first step to wellness is to take a chance on ourselves and seek out a clinician we can connect with. Namaste",
+        "upvotes": 0,
+        "views": 114
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 29,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Sara BakerLet me help YOU accomplish your goals and develop a better life worth living. ",
+        "therapistURL": "https://counselchat.com/therapists/sara-baker",
+        "answerText": "Absolutely not! A lot of the issues that have been identified are strongly correlated to each other. Sometimes when you start therapy and 'address' the first issue, it helps decrease the severity of the other issues.",
+        "upvotes": 0,
+        "views": 99
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 30,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Natalie Moore | Holistic Therapy🛋 For creative, ambitious millennials",
+        "therapistURL": "https://counselchat.com/therapists/natalie-moore-holistic-therapy",
+        "answerText": "I want to assure you that there is no such thing as having too many issues for counseling.When you decide to see a therapist, make sure to find someone who has expertise in each of these problem areas you mentioned. In your first therapy appointment, they will take a history of everything you just shared and more to help you determine goals for treatment.You and your therapist will agree upon how often you’ll meet to get started working toward those goals. You and your therapist will likely prioritize what to focus on first to help you get the most benefit from therapy as quickly as possible. Then, as you meet therapy goals, you will likely move on to others.If it seems daunting or overwhelming, keep in mind that as you work on your trauma history, for example, you may notice that anxiety, depression and self-esteem issues improve. And as you work on psychological issues, your physical issues — like insomnia — may decrease.Lastly, it sounds like you have a loving, supportive partner, which is a mental health protective factor and a possible determinant of a more successful therapy outcome. It’s never too late to get started improving your mental wellness. I hope you reach out soon and get the support you so deserve.",
+        "upvotes": 0,
+        "views": 168
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 31,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Christopher NoahHere to help in anyway I can",
+        "therapistURL": "https://counselchat.com/therapists/christopher-noah",
+        "answerText": "No you can never have to many issues for counseling thatis why we have counseling around so we can help you with your problems",
+        "upvotes": 0,
+        "views": 142
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 32,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Ryan LynchCertified Sex Therapist",
+        "therapistURL": "https://counselchat.com/therapists/ryan-lynch",
+        "answerText": "Absolutely not! It sounds like you have had a quite a lot of traumas in your life. Those traumas do not mean you have too many for therapy, but rather that you could possibly benefit from therapy more. Having numerous issues just means you might need to be in therapy for a bit to work through them. An experienced therapist can help you sift through all you have been through to find what is causing you the most distress. Good Luck!",
+        "upvotes": 0,
+        "views": 151
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 33,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Abigail EckI'm so grateful you're here. Finding a therapist is scary, so I'd like to make this comfortable for you.",
+        "therapistURL": "https://counselchat.com/therapists/abigail-eck",
+        "answerText": "I am so impressed to hear that despite all that you have endured, you're open to and asking about therapy! That. Is. Incredible.I don't believe there is a person who has \"too many\" struggles or is \"too far gone\" for therapy. Often, our numerous struggles are like the roots that grow from a plant bulb. They're are a lot, but they all lead back to the bulb. That is, we can have many symptoms and experiences that are often rooted from a few deep, primary issues that, once addressed, can resolve more than one symptom/experience like the image below illustrates.",
+        "upvotes": 0,
+        "views": 187
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 34,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Mishka KimballHealing & Transformation Are Waiting for You.",
+        "therapistURL": "https://counselchat.com/therapists/mishka-kimball",
+        "answerText": "Thank you for sharing your experiences and for being vulnerable. The answer to your question is no, you don't have too many issues to address in counseling. Therapy is designed to provide you with that safe and non-judgmental space, where you can share everything and anything you wish you share and as raw as it needs to be. Being open and vulnerable is incredibly courageous and can bring you a lot of healing. I encourage you to start counseling and to not be afraid to share at your own pace.",
+        "upvotes": 0,
+        "views": 192
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 35,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Ashton SullivanDialectical Behavior Therapy and EMDR",
+        "therapistURL": "https://counselchat.com/therapists/ashton-sullivan",
+        "answerText": "You can never have too many issues to address I'm counseling!  In fact, I wish more people would come in sooner than later (or not at all) but I always say better late than never.  I think you will discover how everything you're experiencing makes sense when you connect the dots with your therapist.  Depression, anxiety, sleep disturbances, and low self esteem can all be symptoms of trauma/sexual abuse.  Your counselor will do an assessment and talk with you about your goals to develop a treatment plan.  Always make sure your therapist feels like a good fit, because research has shown that the therapeutic relationship is the most important factor regardless of the theoretical orientation or treatment modality.",
+        "upvotes": 0,
+        "views": 166
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 36,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Jessica Fealk, MA, LPCwww.dalycounseling.com (Michigan)",
+        "therapistURL": "https://counselchat.com/therapists/jessica-fealk-ma-lpc",
+        "answerText": "Starting counseling, and bringing in a lot can feel overwhelming; like you've brought too many full suitcases and it's scary to think about opening them all.  My strategy would be to help you take inventory of all the areas you'd like to eventually work on and then prioritize what you'd like to work on first.  We would just focus on what seems manageable to work on, for now (what suitcase do you want to open, and how much do you want to unpack?)   Often times, symptoms have similar root issues, so once you start to work on one area and it gets better, other symptoms can get better too.  Being a breast cancer survivor you already have a chest of skills and tools that have helped you get through!  It's likely those skills can be applied in other areas for healing.",
+        "upvotes": 0,
+        "views": 149
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 37,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Patrick Santilli, LPCCTelehealth Therapist in Ohio",
+        "therapistURL": "https://counselchat.com/therapists/patrick-santilli-lpcc",
+        "answerText": "I don't think there is such a thing as having too much or too little issues for therapy. Humans are very complex and our life story varies on the individual. Our complexities have connections and oftentimes in therapy, seeking help for one struggle may have a positive impact on another. It is never too late to seek help from a professional We are never too complex for help.",
+        "upvotes": 0,
+        "views": 104
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 38,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Kevin MimmsBuilding Better Connections",
+        "therapistURL": "https://counselchat.com/therapists/kevin-mimms",
+        "answerText": "Hi,I think at the start of counseling it is very common to experience our live in this way. The weight we carry is such a burden, overwhelming, and completely out of control. Or at least it would be if we let it. Usually we have found a way to deal with these feelings and keep ourselves under tight control, even if we can feel ourselves slipping further and further away. Throughout therapy, it is likely you will work through much of this, slowly but surely, and realize that while the way you have coped was useful to you at one time, it isn’t useful to you anymore. I hope this helps.",
+        "upvotes": 0,
+        "views": 140
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 39,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Whitney JenningsGet unstuck and show up as your best self in life.",
+        "therapistURL": "https://counselchat.com/therapists/whitney-jennings",
+        "answerText": "I believe you can never have too many issues for counseling.  If such is the case, what would be the alternative?  Not seek help at all?  It is important to understand that counseling is a journey.  Counseling is not about getting \"fixed,\" but instead about self-exploration, self-discovery, and empowerment.  I seek to support my clients in all of those areas by helping them see their problems from a different perspective and gently challenging them for better.",
+        "upvotes": 0,
+        "views": 99
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 40,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Jessica FrenchCompassion-Focused Therapist",
+        "therapistURL": "https://counselchat.com/therapists/jessica-french",
+        "answerText": "This is a common worry clients have about counseling. Something that can be helpful to remember is that what we're seeing as different issues often have a theme or are connected in some way. For example, the sexual abuse and cancer history you shared have similar traumatic and stressful effects on the mind and body, and insomnia can be exacerbated by the longer-term effects of what you've been through. Similarly, anxiety and depression are different ways our pain and distress presents itself but have underlying connections - sometimes they're even connected to the same trauma response. The hope is that you'll have a counselor who can help you explore these different areas of wellbeing, and facilitate a process of putting the puzzle pieces together while creating space to discover what you need in order to find some liberation and healing from the issues you've named.",
+        "upvotes": 0,
+        "views": 111
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 41,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Laura Zane-NwagbaraochaEmpath, Authentic, Therapist, Wife, Mom",
+        "therapistURL": "https://counselchat.com/therapists/laura-zane-nwagbaraocha",
+        "answerText": "It feels overwhelming right? Like if I have this many issues and I can't deal with them, how can somebody else... yet for a decent therapist, your issues are totally doable. It will take time, therapy is not a magic cure, but if you are patient with yourself, you can move through each of the issues. Some of the issues like the sexual abuse and some of the trauma from being a breast cancer survivor can be dealt with a little more quickly using an eye movement therapy like EMDR or Accelerated Resolution Therapy. Some you are going to have to feel the pain and learn coping strategies. Know that you are not a lost cause and there are people that come in ALL the TIME with just as many issues, if not more. Counseling can initially feel scary, overwhelming and so completely vulnerable, which is exceptionally difficult for sexual abuse survivors. Just know, the hardest part is often taking that first step to get help, and knowing that there is somebody willing and happy to support you as you get emotionally healthier.",
+        "upvotes": 0,
+        "views": 84
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 42,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Audrey ONealBi-lingual Psychotherapist and HeartMath Certified Practitioner",
+        "therapistURL": "https://counselchat.com/therapists/audrey-oneal-3",
+        "answerText": "Since you have not had counseling for any of these issues, I would encourage you to do so. During your initial visit, a therapist will gather data about your presenting problem and symptoms, medical history, as well as any significant events that have occurred in your life such as abuse, parental separation or divorce  and so forth. During the sessions, a competent therapist will ask you what issue you want to address first. Part of your treatment plan will not only include your diagnosis but also other areas of your life that need clinical attention and that can be considered additional stressors. During the sessions, you will most likely explore the sources of your depression and anxiety as well as your trauma history. Sexual abuse is often challenging to discuss particularly if you have never talked to anyone about it.However,if the  therapist strives to create an emotionally safe environment, no matter how many issues you believe you have, you will feel supported to reveal your psychological distress layer by layer.",
+        "upvotes": 0,
+        "views": 100
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 43,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "JOSH MARLAR",
+        "therapistURL": "https://counselchat.com/therapists/josh-marlar",
+        "answerText": "Absolutely not.  Whatever problems you are facing, I promise you there are others out there facing the same problems and counseling can help.  The right therapist is out there.  What is it that bothers you the most right here and right now?  That answer may change from day to day or moment to moment and that's ok too.  As you go through therapy, you may find that as you work on one thing, others seem to be less significant.  Sexual abuse, cancer, and insomnia are in no way insignificant, but each one may be easier to handle as you deal with the others.  For example, reprocessing sexual trauma might improve your sleep, and both may even improve your relationship.  Congratulations on 35 years!Start with small goals.  Remember, the only way to eat an elephant is one bite at a time.",
+        "upvotes": 0,
+        "views": 105
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 44,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Amanda SamuelsCo-Parenting and Infidelity Couples Counseling",
+        "therapistURL": "https://counselchat.com/therapists/amanda-samuels",
+        "answerText": "There is no such thing as too many issues for counseling.  Many people come in with a variety of issues and sometimes we discover other underlying issues.  As you begin therapy, you will be able to explore your history with your therapist and come up with what you would like to focus on first or what appears to be most important.  This is your therapy and you get to decide what is focused on in it.",
+        "upvotes": 0,
+        "views": 102
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 45,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Briana ThomasFamily and Other Relationships ",
+        "therapistURL": "https://counselchat.com/therapists/briana-thomas",
+        "answerText": "In short, no you do not have too many issues to address for counseling. You and your counselor should work closely together in order to prioritize. Typically anyone coming to therapy has more than one underlying issue. It’s rare that someone comes with just one concern to address. There are so many things throughout life that contribute to our current circumstances. Your therapist shall be prepared to address what you feel is most important and work from there. Hope this helps.",
+        "upvotes": 0,
+        "views": 68
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 46,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Candice Conroy, LMHCFind relief from anxiety, depression, and trauma.",
+        "therapistURL": "https://counselchat.com/therapists/candice-conroy-lmhc",
+        "answerText": "Absolutely not. It's actually quite rare for someone to come in to therapy for \"just one thing.\" More often than not, even people who seek out therapy \"just for anxiety\" often find a host of other related things when they start peeling back the layers in therapy.When clients come to me with a list of things like this, our first step is to put it all out there and THEN to work on finding the \"constellation.\" All of these things tie together to form a more complete picture of who you are and how your experiences have impacted you and have led to other experiences. For example, many clients find it helpful to understand how a history of sexual abuse can increase the likelihood of developing insomnia. Seeing how everything ties together often helps people to slow down and take a step back from the tendency to take each of these struggles as a personal flaw or failure and to see how the whole picture fits. Plus, on the upside, once you've started to piece together the larger picture, you can use that to decide where to begin. Once you begin learning skills you can apply to one area, often times those same skills can be applied to other concerns with just a little variation. For example, the skills required to process through the beliefs you developed as a result of sexual abuse so that you can start shifting your mindset to more helpful perspectives is actually the same skills you can use to change the thought processes that maintain insomnia. So the skills can be generalized relatively easily!As long as you're still breathing, there's no such thing as too far gone.",
+        "upvotes": 0,
+        "views": 74
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 47,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Kaileen McMickle, MS, LPCLicensed Professional Counselor",
+        "therapistURL": "https://counselchat.com/therapists/kaileen-mcmickle-ms-lpc",
+        "answerText": "It sounds like you fear that you may burden your counselor or you will be too much for them to handle.  That fear is very normal, and that doesn't mean it is true.  It speaks to the fact that you are very human with a multitude of experiences that maybe don't fit into one neat and tidy category; however, it may be worth your time to explore if there is a theme that ties your experiences together (e.g., fear of death, fear of loss, etc.).  When I first see clients, I want to know how they perceive seeing a counselor and the things they fear about the process.  It sounds like you may benefit from voicing and processing through these concerns with a counselor you feel is a good fit for you and your needs.  It's also important to note that you are already a great candidate based on your question: you seem to have interest in seeking help, enough motivation to ask questions about counseling, and courage to put some tough stuff out there (despite anonymity).  Those are all reasons you are already a wonderful fit for counseling!",
+        "upvotes": 0,
+        "views": 78
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 48,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Olivia ClearHonor your spirit, clarify your vision, align with your purpose.",
+        "therapistURL": "https://counselchat.com/therapists/olivia-clear",
+        "answerText": "Hi! Many people begin their therapeutic journey with histories just like yours and experience transformative shifts in their quality of life.  I hope you are able to find a counselor you feel comfortable working with and do the work if you feel called. Best of luck on your journey!",
+        "upvotes": 0,
+        "views": 95
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 49,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Heidi SchnakenbergSpecializing in family relationships specifically adolescents with conduct issues ",
+        "therapistURL": "https://counselchat.com/therapists/heidi-schnakenberg",
+        "answerText": "Absolutely not. It sounds like you have significant trauma and it will continue to impact your depression until it is dealt with. Everybody has issues, though some more traumatic than others yet it is best to just start somewhere. I would encourage you to begin counseling and work through some of your history at your own pace in order to begin to impact and reduce your depressive symptoms.",
+        "upvotes": 0,
+        "views": 142
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 50,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Wendy GagneCouples, Parenting, Anger and ADHD",
+        "therapistURL": "https://counselchat.com/therapists/wendy-gagne",
+        "answerText": "Most clients have many issues that need working out. It is normal to have many events in our lives that trouble us and remain with us without counseling help. The right type of counsellor will help you focus on the main and most troubling issue you have first and work your way through all that you are managing step by step, goal by goal. Sometimes, working on  one issue helps to bring other issues to light in the context of your main problem. This can help you resolve some other issues that are connected. Look for someone with experience and specialty in your most pressing issue...even though you have had breast cancer, you may find that grief from your past is more troubling. Then you would look for a bereavement or grief specialist.",
+        "upvotes": 0,
+        "views": 165
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 51,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Dr. Melissa ValentinaHonor Yourself and Live Your Truth",
+        "therapistURL": "https://counselchat.com/therapists/dr-melissa-valentina",
+        "answerText": "Just go! You start with the most prevalent issue by talking with your therapist. Healing one issue can have a ripple effect and heal other issues as well.",
+        "upvotes": 0,
+        "views": 78
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 52,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Kerri ScullyLicensed Professional Counselor",
+        "therapistURL": "https://counselchat.com/therapists/kerri-scully",
+        "answerText": "There is no such thing as too many issues for counseling. Many issues are often interrelated and can all be worked on with some time and patience.",
+        "upvotes": 0,
+        "views": 61
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 53,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Tasha HunterTrauma Therapist in Goldsboro, NC",
+        "therapistURL": "https://counselchat.com/therapists/tasha-hunter",
+        "answerText": "Hi, people who have only a few issues and people who have several issues are perfect for therapy. There is no such thing as having too many problems for therapy. Therapy is great because it will help you process all that you are going through, heal from past and present pain, and gain clarity.",
+        "upvotes": 0,
+        "views": 61
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 54,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Dr. Timothy Paul'man'; Online - \"Natural Health Consultant and Coach\"",
+        "therapistURL": "https://counselchat.com/therapists/dr-timothy-paul",
+        "answerText": "Yeah, you might :)At least, it certainly feels like that, I bet...Not to mention that most counselors out there might generally feel overwhelmed with a \"case\" with so many problems.  And, so, you will slog along week-to-week with gradual improvements occurring as she slowly does her best to chip away...The real issue is that these folks don't yet comprehend the integrative nature of each of these subjects and how generally simple it is to understand them, and then eradicate them.",
+        "upvotes": 0,
+        "views": 57
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 55,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Leonard PikaardWhen you're ready, help is here.",
+        "therapistURL": "https://counselchat.com/therapists/leonard-pikaard",
+        "answerText": "It could be said that you might be the perfect candidate for counseling! No one is beyond hope, and someone brave enough to be honest regarding their struggles, with the intention of reaching out for help is certainly a person a qualified counselor would be happy to assist. You may want to do some research on therapists in your local area who specialize in mind-body connection, or one of the struggles you have acknowledged in your post, in order to find a therapist that is best suited to meet your needs. Good luck on your search, and remember that the world is a better place with you in it.",
+        "upvotes": 0,
+        "views": 74
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 56,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Michelle BarnhartPhoenix Rising Counseling",
+        "therapistURL": "https://counselchat.com/therapists/michelle-barnhart",
+        "answerText": "No, there are never too many issues to address in counseling.  Therapy would begin by prioritizing what you feel needs to be addressed first.  As one area improves, such as processing history of abuse you are likely to see improvement in other areas of your life...like sleeping better.",
+        "upvotes": 0,
+        "views": 138
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 57,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Ivy GrossHelping Individuals Heal and Grow",
+        "therapistURL": "https://counselchat.com/therapists/ivy-gross",
+        "answerText": "Firstly, I would like to say how amazing that you have been able to live through breast cancer, sexual abuse as well as your depression and anxiety. You are stronger than you may believe at this moment for being able to continue to grow and live through these experiences. Take a moment to acknowledge your strength and know that this strength will be an asset during the therapeutic process that you will be able to tap into to find increased self esteem and more strength to address the concerns you are having. There are never too many concerns to address in therapy sessions. I hope you can find a great therapist who you can trust to listen and work with you to identify and address\nthe most concerning issues first. Once you begin to do this you may find an alleviation of symptoms and feelings which could allow you to grow your capacity to manage difficult feelings and situations and address additional concerns. Before you even realize it the issues you are having will begin to feel more manageable.",
+        "upvotes": 0,
+        "views": 166
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 58,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Tanya HernandezHelping you to overcome overwhelm and jump back into life! ",
+        "therapistURL": "https://counselchat.com/therapists/tanya-hernandez",
+        "answerText": "Absolutely not! It is never too much. The most important thing is that you are reaching out to get help.  Therapy helps you to develop healthier coping strategies and that can help reduce the anxiety and depression as well as improve your sleep. This can all be done at a pace that is best for you. Your therapist can help you process all of this in a safe and supportive space.",
+        "upvotes": 0,
+        "views": 99
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 59,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Christina McGrath Fair\"Enlightenment is when a wave realizes it is the ocean.\" -Thich Nhat Hanh",
+        "therapistURL": "https://counselchat.com/therapists/christina-mcgrath-fair",
+        "answerText": "No, it is natural for us to have a number of issues going on if we don't address the concerns we have in our lives. Seeking counseling can assist you in working on these issues individually as well as ways in which they intersect and impact each other.",
+        "upvotes": 0,
+        "views": 82
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 60,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Amy StandiferChristian Sex Therapist and Certified Clinical Trauma Professional",
+        "therapistURL": "https://counselchat.com/therapists/amy-standifer",
+        "answerText": "A person never has \"too many\" issues to address in counseling. Participating in counseling with a licensed professional offers a safe place and therapeutic relationship where healing can occur. A trained therapist can help a person unpack and process past and/or current wounds (or events) which may  negatively impact day to day living. They can also help make sense of thoughts and emotions that sometimes feel overwhelming and confusing.  If you want to experience more emotional freedom and gain some tools to help understand and cope with depression and anxiety, I'd encourage you to schedule an appointment with a therapist in your area.",
+        "upvotes": 0,
+        "views": 64
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 61,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Gabriel ThibautTransform your conflicts to strengthen your relationship",
+        "therapistURL": "https://counselchat.com/therapists/gabriel-thibaut",
+        "answerText": "There is no such things as \"too  many issues\". Many of the issues cited here are connected. For example, in this case working on the sexual abuse will possibly address the depression, the anxiety, the self esteem. There may be some grief to process around the impact of the cancer. Our body, mind and spirit are parts of one system. They are interconnected.Addressing these issue are important so you can be relieved of the burden and feel more spontaneous and enjoy life even more.",
+        "upvotes": 0,
+        "views": 91
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 62,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Joshua WeinrebCognitive Behavioral & Mindfulness Based Counselor",
+        "therapistURL": "https://counselchat.com/therapists/joshua-weinreb",
+        "answerText": "Of course not. Counseling is a process, whereby you and your therapist will help you create goals- starting with issues that are most pressing and interfering with your daily functioning. When anxiety and daily stress is more manageable then you and your therapist can examine more deep rooted or more chronic issues.",
+        "upvotes": 0,
+        "views": 83
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 63,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Nikkita StonnerTrauma Guru",
+        "therapistURL": "https://counselchat.com/therapists/nikkita-stonner",
+        "answerText": "You definitely don't have too many issues for counseling. In fact, counseling can help you understand how most of these things can be related to one another. For example, insomnia, depression, low self-esteem and anxiety are very common to experience after a traumatic event or events. Once you begin to work through processing these life altering events that you have experienced, the hope is that you would see a decrease in your other symptoms.",
+        "upvotes": 0,
+        "views": 123
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 64,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Fenny Goyal‘Sahara’ means support and that is what I will do to help you meet your potential",
+        "therapistURL": "https://counselchat.com/therapists/fenny-goyal",
+        "answerText": "You absolutely do not have too many issues for counselling. The fact that you are wanting to seek help is commendable and you should feel proud of yourself for reaching out for support. I know from my experience working with clients that some may say they have only one issue but when we explore it turns out they have many things that they want to discuss that are of equal importance. I believe that you deserve to feel happy, at ease and also get restful sleep amongst other things. Please do not feel hesitant because the fact that you know what you want to discuss and work on is amazing. You know the directions you want to go and the therapist just needs to help you get there. I suggest sitting down and making a list of what you want to discuss as well as what you feel is more important to address first. Perhaps the therapist can help you with that as well.",
+        "upvotes": 0,
+        "views": 104
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 65,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Joshua BeaversLicensed Professional Counselor available evenings and weekends in Tulsa, OK. Specializes in family conflict and self-care practices.",
+        "therapistURL": "https://counselchat.com/therapists/joshua-beavers",
+        "answerText": "Thank you for sharing your question.  I imagine it feels overwhelming and discouraging at times if you feel like there are too many issues to address in a counseling session.  I would encourage you to share these concerns with a counselor because a counselor can help you organize the concerns into a list of specific goals.  For example, a list of goals may look similar to this:1.  \"I will learn about the effects of medication on the symptoms of depression and anxiety.\"2.  \"I will learn about the factors that affect insomnia.\"3.  \"I will learn about resources and support groups in my local area to help me cope with my traumatic experiences.\"4.  \"I will practice self-care exercises each day and write about my thoughts and feelings in a journal so I can measure whether or not I\"m making progress.\"This is an example of some of the possible goals a counselor can help you work toward each week.  Working toward a specific goal can lead to a feeling of accomplishment once you've completed it, and this may have a positive impact on your self-esteem.  I hope this information helps, and I wish you all the best!",
+        "upvotes": 0,
+        "views": 131
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 66,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Donald Spencer",
+        "therapistURL": "https://counselchat.com/therapists/donald-spencer",
+        "answerText": "There are never too many issues in living. In a way we take on too many issues at one time. Then we become over whelmed with \"anxiety and depression.\"  A skillful, caring therapist will help you find a place to start and deal with one issue at a time. when this helps the other issues. Then the other issues become more manageable. I gain. confidence I can take on life better and, importantly , enjoy living life more. My best to you. Dr. Spencer",
+        "upvotes": 0,
+        "views": 127
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 67,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Dawn M. Reilly, Psy.D.It's never too late",
+        "therapistURL": "https://counselchat.com/therapists/dawn-m-reilly-psy-d",
+        "answerText": "There are never \"too many issues\" to be addressed in therapy.  Most people come in with multiple issues they want to address.  The wonderful thing about therapy, is that often, as one or more significant issues begin to change and improve-   the lead naturally without much effort to improvements in the other areas.  (For example, as you begin to address trauma and betrayal from you past, you may find that the insomnia improves). Your therapist, with you input and direction, can help you to prioritize which problem areas to target first.",
+        "upvotes": 0,
+        "views": 99
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 68,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Michael GreeneTherapy That Focuses on Root Causes",
+        "therapistURL": "https://counselchat.com/therapists/michael-greene",
+        "answerText": "You can be helped. Many of the people I see have multiple issues. These issues are often linked so that helping one issue will positively help the other issues.",
+        "upvotes": 0,
+        "views": 133
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 69,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "David KleinHumanistic, LGBT-Affirmative Psychotherapy for Individuals & Couples",
+        "therapistURL": "https://counselchat.com/therapists/david-klein",
+        "answerText": "The short answer is: absolutely not! The longer answer is that it might take some time to process all of the issues, and it may feel quite \"muddy\" in the issues for a lot longer than is tolerable (which is why counseling may have been postponed to begin with for you.) It's important to be realistic when entering counseling of any sort, and that the therapist be realistic with you about what you might be able to expect working with that person (I use the words \"might be able to expect\" because therapy experiences can vary.) But that not having counseling about trauma that you have experienced much earlier in your life can play a significant role in the process and how long that process could take to unpack all that may have been buried over time.It might also be helpful in counseling to work with the therapist on figuring out where to begin, but to also manage the feelings of being overwhelmed that may make it hard to continue to show up and do the work required, week in and week out. It isn't easy work trying to process past pain that you experienced, and so consistent practice of self-care, including leaning on support systems outside of therapy, is key.",
+        "upvotes": 0,
+        "views": 109
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 70,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Amanda Babineau-LaRoseCounseling related to depression, anxiety, aging, grief and loss, medical illness, and adjustment to changes across the lifespan. ",
+        "therapistURL": "https://counselchat.com/therapists/amanda-babineau-larose",
+        "answerText": "Usually people who struggle with depression also have symptoms of anxiety. These symptoms come about as a result of underlying causes. The obstacles you have been overcoming such as abuse, cancer and insomnia likely bring about similar feelings and emotions in you which affect your self-esteem. Counseling is meant to support people who have layers of difficulties. We see the difficulties as layers to an onion, peeling away the many layers.",
+        "upvotes": 0,
+        "views": 99
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 71,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Danielle RuquetFind your Inner Peace!",
+        "therapistURL": "https://counselchat.com/therapists/danielle-ruquet",
+        "answerText": "Often times when an individual begins the counseling process it is revealed that there is more than one thing going on. When we think about how much is wrong, it can be overwhelming and we may not know where to even start. Counseling can provide guidance to help you to begin working toward healing in a way that is most helpful for you to reach your goals.",
+        "upvotes": 0,
+        "views": 94
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 72,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Tina WallisHelping people get \"unstuck\"",
+        "therapistURL": "https://counselchat.com/therapists/tina-wallis",
+        "answerText": "Absolutely not! When we have the courage to accept the challenge to address whatever is causing us pain, the solutions often generalize to many, if not all of our symptoms. I would suggest that unresolved trauma from sexual abuse is likely a primary contributing factor. However, it is important that you first build a trusting relationship with a therapist experienced in trauma treatment as this is an area of specialty that not all therapists are skilled in treating. Choosing one issue to work on, such as anxiety or depressive symptoms, and starting there will allow you the opportunity to get to know your therapist, learn coping skills for managing distressing symptoms, and establish emotional safety before jumping into trauma work.",
+        "upvotes": 0,
+        "views": 288
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 73,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Jeanette Razo-GonzalezLittle Steps Giant Leaps",
+        "therapistURL": "https://counselchat.com/therapists/jeanette-razo-gonzalez-2",
+        "answerText": "Hello there,No one has too many issues to address in counseling. Once you start counseling, your therapist will help you identify which issues to start working on first and which are causing you the most distress. Once you and your therapist prioritize your concerns, you can start to address each concern, starting with the one causing the most distress for you.",
+        "upvotes": 0,
+        "views": 258
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 74,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Rachelle MillerMental health therapist, parent educator, life coach",
+        "therapistURL": "https://counselchat.com/therapists/rachelle-miller",
+        "answerText": "It sounds like you are feeling pretty overwhelmed. But you are also a survivor and have the benefit of a long, stable marriage. You do not have too many issues to address in counseling. A good therapist will help you to partialize your goals into smaller objectives and focus in on what's most pressing for you to address first in treatment.",
+        "upvotes": 0,
+        "views": 228
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 75,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Amelia Mora MarsHi, I'm Amelia. I help overwhelmed, stressed out teen girls and women find peace again.",
+        "therapistURL": "https://counselchat.com/therapists/amelia-mora-mars",
+        "answerText": "Hello! You may have heard the saying that counseling is like peeling the layers of an onion. Whether a person comes to therapy with many issues on their heart and mind or whether he/she comes with something specific, one issue leads to another. Please don't feel as though you have too many issues. You are important and worthy. On the plus side,  you are a breast cancer survivor and have a wonderful marriage! Seek the help that you deserve.",
+        "upvotes": 0,
+        "views": 204
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 76,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Dr. John Frampton",
+        "therapistURL": "https://counselchat.com/therapists/dr-john-frampton",
+        "answerText": "You do not have too many issues to address in counseling.  And your perseverance will serve you well if you choose to engage in therapy.  The trauma and medical event you experienced topped off with chronic sleepless nights would lead to feelings of depression for many.  The emotional reaction you've had to these experiences sounds normal albeit troublesome and I would imagine intensely painful at times as well.  Therapy can help prioritize what is the most impactful issue you are grappling with.  I find in therapy that when the central issue is revealed, understood, processed, and understood again in its current context, many other areas of the person's internal experience improve.  It sounds as though something has prevented you from seeking help from a counselor in the past, and it sounds as though you are more seriously considering it now.  Therapy helps and it can help you when you're ready.",
+        "upvotes": 0,
+        "views": 108
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 77,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Jessica ClineSpecialist in Divorce Recovery",
+        "therapistURL": "https://counselchat.com/therapists/jessica-cline",
+        "answerText": "Thank you for sharing your history. You do not have too many issues to address in counseling. It will help to prioritize what you would like to work on first in therapy. Your therapist will create a treatment plan with you, which can always be changed while working together. Therapy is a process in working towards your best life, and you deserve it.",
+        "upvotes": 0,
+        "views": 119
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 78,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Adriana DyurichCOUNSELING, WELLNESS, AND CONSULTING for for Moms, moms to be and their children",
+        "therapistURL": "https://counselchat.com/therapists/adriana-dyurich",
+        "answerText": "Not at all! Whatever issues you might have you can bring to the therapy room. Remember therapy is about YOU, not your therapist. You bring whatever you need to bring to the table. Keep in mind these issues are likely related. Remember you are a holistic being, more than just the sum of the parts. Just like any system, when you move something in one area, things start changing in other areas as well. Talk to your therapist to decide goals for counseling and establish priorities, and ENJOY THE RIDE! Growing, flourishing, and finally letting go of what hurts can be a beautiful and exciting process.",
+        "upvotes": 0,
+        "views": 148
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 79,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Emily SullivanHealth & Wellness Counseling, Individual & Couples Psychotherapy",
+        "therapistURL": "https://counselchat.com/therapists/emily-sullivan",
+        "answerText": "You absolutely do not have \"too many issues\" for counseling. Your reaching out to ask this question shows you have a resilient spirit. Also, your happy marriage can be a support and strength to you as you embark on a counseling journey. I would recommend that you find a counselor who specializes in trauma, sexual trauma and/or EMDR (a type of therapy that is proven to have a strong impact on healing from trauma). Good luck!",
+        "upvotes": 0,
+        "views": 144
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 80,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Gwendolyn Nelson-Terrywww.GwendolynNelsonTerry.com",
+        "therapistURL": "https://counselchat.com/therapists/gwendolyn-nelson-terry",
+        "answerText": "I don't think you have too many issues for counseling.  If a client came to me for help with the same issues that you have listed here I would first want them to meet with their doctor to get a physical to rule out any biological causes to your depression, anxiety, and insomnia.  I would work with you on deciding which of these issues to tackle first.  I usually suggest starting with the issue that is easiest.  Reading through your symptoms I might choose anxiety to start with since you are in the early stages of it.  I like to give my client skills they can use right away, so I would focus on teaching you breathing exercises to manage the anxiety as well as cognitive restructuring so that when an anxious thought pops up you can talk yourself through it.  Once you felt that you had some control over the anxiety I'd start to work on some of your other concerns, but I would seek your input on what you felt like might be good to work on next.  My gut is that some of these issues would be resolved as you worked on others.  For example as you worked on your anxiety and began to process your trauma and as you began to work on self care and getting more sleep - your self esteem would probably improve.  I encourage you to meet with a therapist and ask them how they might be able to help you.  These are just some thoughts that came up for me on how I might help someone with the same or similar symptoms.",
+        "upvotes": 0,
+        "views": 110
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 81,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Debbie Gottlieb",
+        "therapistURL": "https://counselchat.com/therapists/debbie-gottlieb",
+        "answerText": "The way it goes is that all your issues are connected. Once you work on one issue it will have a positive effect on all areas. Slowly each issue is addressed and actually less issues will need to be addressed directly since resolving one helps your overall wellness. So no, you do not have too many issues. Don’t give up. Get help now and see how your life can change for the better.",
+        "upvotes": 0,
+        "views": 123
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 82,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Emily Freeze, MPH, MA, LMFTSpecialist in Women's Mental Health",
+        "therapistURL": "https://counselchat.com/therapists/emily-freeze-mph-ma-lmft",
+        "answerText": "I think this is a very common question that people who have never been to counseling before have.  There is a lot of anxiety in going to counseling for the first time.  This is normal.  In answer to your  question, the answer is an absolute NO!  An important thing to remember about getting counseling is that it is a courageous first step towards hope and healing.  Getting help is like training to run a marathon, it is not a sprint.  You have shared a lot of issues that you are dealing with from your past, that are now negatively impacting your present, but I believe that in getting the right kind of help and support, none of them are impossible to overcome.  Part of the therapeutic process is defining and prioritizing therapy goals.  In collaboration with you, as a client, a therapist is there to help you with this process in determining what you would like to work on first.  Not getting counseling, based on the history you have shared, has the potential to put you more at risk for mental and physical health issues.  You are already seeing this happen as you begin to experience new symptoms, namely your anxiety.  In therapy, you will gain understanding and insight, as well as learn skills and strategies to manage the symptoms you are experiencing.In conclusion, I would encourage you to reach out to a licensed counselor who has experience in treating trauma, grief/loss and will address shame.  These are three areas that I have found that gets to  the core issues that are contributing to your depression and anxiety.   I believe you can get the help you need to find hope and healing.  Best of luck to you!",
+        "upvotes": 0,
+        "views": 119
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 83,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Laura Cassity, LMSW, LMACAffiliated Family Counselors",
+        "therapistURL": "https://counselchat.com/therapists/laura-cassity-lmsw-lmac",
+        "answerText": "Hello, I'm so glad you decided to take the first step in opening a conversation first. Deciding to go to therapy can sometimes be difficult for some, but with the right therapist, healing is possible and obtainable, even with what you've described. To answer your question, no you do not have too many issues to go to counseling.  You've been through a lot and have been strong and at times it's helpful to have someone else to help you through it. What I would say is to be sure and find a therapist who is experienced in sexual abuse and trauma overall. But you absolutely do not have too many issues for counseling. Please feel free to ask any other questions you may have regarding your situation and I hope you find the therapist you're looking for, there are many great ones out there. Many of the issues you're experiencing may be tied together from the trauma. Best Wishes. Laura Cassity, LMSW, LMAC",
+        "upvotes": 0,
+        "views": 119
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 84,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Tamara PowellAnything But Ordinary!",
+        "therapistURL": "https://counselchat.com/therapists/tamara-powell",
+        "answerText": "Not at all my dear. Human beings are complex creatures, and in my opinion, our issues interconnect in a very nuanced web between our levels of being (for example, mind, body, and spirit). Everything you bring up affects all three. The truly beautiful thing about the human body is that when you begin to work on one, the others improve as well!I would encourage you to seek out a counselor who's style and approach speaks to you and start with whichever issue feels most pressing to you. A skilled therapist will flow with you at your own pace and make recommendations to other professionals (e.g., physicians, holistic practitioners, EMDR specialists for trauma etc) as needed to complement the psychotherapy work you're doing with him or her to help you find the total healing you seek. I wish you well on your journey!",
+        "upvotes": 0,
+        "views": 607
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 85,
+      "row": {
+        "questionID": 0,
+        "questionTitle": "Do I have too many issues for counseling?",
+        "questionText": "I have so many issues to address. I have a history of sexual abuse, I’m a breast cancer survivor and I am a lifetime insomniac.    I have a long history of depression and I’m beginning to have anxiety. I have low self esteem but I’ve been happily married for almost 35 years.\n   I’ve never had counseling about any of this. Do I have too many issues to address in counseling?",
+        "questionLink": "https://counselchat.com/questions/do-i-have-too-many-issues-for-counseling",
+        "topic": "depression",
+        "therapistInfo": "Sherry Katz, LCSWCouples and Family Therapist, LCSW",
+        "therapistURL": "https://counselchat.com/therapists/sherry-katz-lcsw",
+        "answerText": "Everyone has topics to discuss when they start therapy.   There is no correct number of topics.youSometimes people go to therapy for one specific area of their life.   Not everyone has the time or interest to utilize therapy just when a significant topic arises in their life.Since you are one person, no matter how many or few topics you would like to address in therapy, all the topics relate to you.Possibly the result of your therapy will be more transformational than if you talked only on one topic.  Lucky you, to be on the cusp of clearing and resolving many vulnerabilities at once.   You will feel brand new by the time you finish your therapy work!",
+        "upvotes": 0,
+        "views": 129
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 86,
+      "row": {
+        "questionID": 1,
+        "questionTitle": "My apartment manager won't let me keep an emotional support dog",
+        "questionText": "I have been diagnosed with general anxiety and depression by my family doctor. They wrote a prescription for me to have an emotional support dog, I have the paper work, and I gave it to my apartment manager. They said I can't keep the ESD because I'm not disabled. What do you suggest I do?",
+        "questionLink": "https://counselchat.com/questions/my-apartment-manager-won-t-let-me-keep-an-emotional-support-dog",
+        "topic": "depression",
+        "therapistInfo": "Eric Ström, JD, MA, LMHCAttorney & Licensed Mental Health Counselor",
+        "therapistURL": "https://counselchat.com/therapists/eric-str-m-jd-ma-lmhc",
+        "answerText": "This can be a difficult situation.  Typically, only animals that are specifically trains to accomplish a specific task are legally protected as Service Animsls. Even though that can be very helpful, emotional support animals are not generally protected in the same way.You might not be able to make your landlord accommodate you. If possible, you may want to consider a different apparent that is more animal friendly.",
+        "upvotes": 2,
+        "views": 1026
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 87,
+      "row": {
+        "questionID": 1,
+        "questionTitle": "My apartment manager won't let me keep an emotional support dog",
+        "questionText": "I have been diagnosed with general anxiety and depression by my family doctor. They wrote a prescription for me to have an emotional support dog, I have the paper work, and I gave it to my apartment manager. They said I can't keep the ESD because I'm not disabled. What do you suggest I do?",
+        "questionLink": "https://counselchat.com/questions/my-apartment-manager-won-t-let-me-keep-an-emotional-support-dog",
+        "topic": "depression",
+        "therapistInfo": "Kaileen McMickle, MS, LPCLicensed Professional Counselor",
+        "therapistURL": "https://counselchat.com/therapists/kaileen-mcmickle-ms-lpc",
+        "answerText": "Your apartment manager is legally required under federal law to allow the ESA to live with you if you have provided documentation from a licensed therapist.  It does not matter if they have a no-pet policy if you have met these qualifications.You do not need a trained service animal nor do you need a disability for an emotional support animal.  The Fair Housing Act (which has federal jurisdiction) allows you to own an ESA if you have met the right criteria, and it sounds like you do.  Perhaps your apartment manager needs a letter from a therapist instead of a doctor?  Here's the site for more information on this and steps to take: https://esadoctors.com/landlord-emotional-support-animal/Maybe your doctor is credible and can help you continue to fight for yourself.  In the above website, it mentions that if you provide the required documentation and your apartment manager continues to deny you, you can file a complaint with HUD (U.S. Department of Housing and Urban Development).I am repeating some of that article content here, but I believe many people in this situation feel pressured to share personal information about their symptoms and circumstances, beyond what is legally required for an ESA.  You never have to share any information apart from the documents your therapist provides to you. I think it's amazing you are trying to stand up for yourself and I wish you all the best!",
+        "upvotes": 1,
+        "views": 143
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 88,
+      "row": {
+        "questionID": 1,
+        "questionTitle": "My apartment manager won't let me keep an emotional support dog",
+        "questionText": "I have been diagnosed with general anxiety and depression by my family doctor. They wrote a prescription for me to have an emotional support dog, I have the paper work, and I gave it to my apartment manager. They said I can't keep the ESD because I'm not disabled. What do you suggest I do?",
+        "questionLink": "https://counselchat.com/questions/my-apartment-manager-won-t-let-me-keep-an-emotional-support-dog",
+        "topic": "depression",
+        "therapistInfo": "Leonard PikaardWhen you're ready, help is here.",
+        "therapistURL": "https://counselchat.com/therapists/leonard-pikaard",
+        "answerText": "At present, the American Disability Association (ADA) only allows protection and guiltiness for Service Animals, which is fall under a separate distinction from Emotional Support Animals. Emotional support animals are untrained animals (typically pets or other domestic animals) that provide wonderful services to their owners, and there are many benefits to having one.Service animals who are trained to provide specific services for an individual with limitations that make them fall under what the ADA defines as \"disabled\" are protected under specific laws, and must be accommodated in public places where the human they serve is present. While it may be beneficial to request that the therapist who \"prescribed\" the dog to you write a letter to the apartment manager, it sounds like the manager is aware of ADA guidelines, and the simplest course of action may be to find an alternative residence, if that is a plausible option.",
+        "upvotes": 0,
+        "views": 107
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 89,
+      "row": {
+        "questionID": 1,
+        "questionTitle": "My apartment manager won't let me keep an emotional support dog",
+        "questionText": "I have been diagnosed with general anxiety and depression by my family doctor. They wrote a prescription for me to have an emotional support dog, I have the paper work, and I gave it to my apartment manager. They said I can't keep the ESD because I'm not disabled. What do you suggest I do?",
+        "questionLink": "https://counselchat.com/questions/my-apartment-manager-won-t-let-me-keep-an-emotional-support-dog",
+        "topic": "depression",
+        "therapistInfo": "Sherry Katz, LCSWCouples and Family Therapist, LCSW",
+        "therapistURL": "https://counselchat.com/therapists/sherry-katz-lcsw",
+        "answerText": "Agree with the apartment manager's viewpoint that your disability is not a physical limitation.Ask the manager if they'd accept an explanatory letter from a therapist who is licensed to diagnosis emotional disabilities.If the answer is yes, then find a therapist who's willing to cooperate with what you need from them and find out this particular therapist's terms of working with you to compose such a letter.If the manager tells you \"no\", then find out who is above this person or entity and find out how to formally introduce your request to the board or apartment owner, or whoever actually is the legal owner of the building.",
+        "upvotes": 0,
+        "views": 112
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 90,
+      "row": {
+        "questionID": 1,
+        "questionTitle": "My apartment manager won't let me keep an emotional support dog",
+        "questionText": "I have been diagnosed with general anxiety and depression by my family doctor. They wrote a prescription for me to have an emotional support dog, I have the paper work, and I gave it to my apartment manager. They said I can't keep the ESD because I'm not disabled. What do you suggest I do?",
+        "questionLink": "https://counselchat.com/questions/my-apartment-manager-won-t-let-me-keep-an-emotional-support-dog",
+        "topic": "depression",
+        "therapistInfo": "Lauren Ostrowski, MA, LPC, NCC, BC-TMH, CCTP, CCHI tailor my therapeutic approach to each client's strengths and goals",
+        "therapistURL": "https://counselchat.com/therapists/lauren-ostrowski-ma-lpc-ncc-bc-tmh-cctp-cch",
+        "answerText": "This is tricky because there are different types of emotional support dogs. The ones that are officially trained actually go through months of training and then are paired with someone for whom they perform specific tasks.You may benefit from looking at the blog written by Valerie Parrott, who has an emotional support dog due to severe anxiety and panic. I will warn you that her blog is very blunt, but she is honest and she has gone through this process: https://thedogintheroom.wordpress.com/2016/06/20/what-makes-a-service-dog/#more-508",
+        "upvotes": 0,
+        "views": 112
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 91,
+      "row": {
+        "questionID": 2,
+        "questionTitle": "I feel like my mother doesn't support me",
+        "questionText": "My mother is combative with me when I say I don't want to talk with her about my depression.    She hasn't been supportive of me in the past and she isn't someone that I feel comfortable opening up to. She constantly tries to instigate conversations where she asks me questions that I don't want to or can't answer. I tell her I don't want to talk and she starts arguments with me.    How can I get her to understand?",
+        "questionLink": "https://counselchat.com/questions/i-feel-like-my-mother-doesn-t-support-me",
+        "topic": "depression",
+        "therapistInfo": "Dr. Meredyth LawrynceServing Clients Nationwide",
+        "therapistURL": "https://counselchat.com/therapists/dr-meredyth-lawrynce",
+        "answerText": "Do you live with your mom and have constant interaction with her?  It is your choice who you share things with.  You can set some clear boundaries.  She can either talk about the interest you feel comfortable or you can reduce, eliminate conversations with her.  These arguments are most likely not good for your depression.  Here is a video regarding boundaries.  Boundaries",
+        "upvotes": 2,
+        "views": 187
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 92,
+      "row": {
+        "questionID": 2,
+        "questionTitle": "I feel like my mother doesn't support me",
+        "questionText": "My mother is combative with me when I say I don't want to talk with her about my depression.    She hasn't been supportive of me in the past and she isn't someone that I feel comfortable opening up to. She constantly tries to instigate conversations where she asks me questions that I don't want to or can't answer. I tell her I don't want to talk and she starts arguments with me.    How can I get her to understand?",
+        "questionLink": "https://counselchat.com/questions/i-feel-like-my-mother-doesn-t-support-me",
+        "topic": "depression",
+        "therapistInfo": "Sherry Katz, LCSWCouples and Family Therapist, LCSW",
+        "therapistURL": "https://counselchat.com/therapists/sherry-katz-lcsw",
+        "answerText": "Your situation sounds extremely frustrating.You're doing the right move to state you don't want to discuss your depression with her.I guess you could ask if she would like to know your reason to not speak w her about your depression.  If you feel she can handle a reasonable conversation, and you would like to tell her your true reason, then schedule this or bring up the topic at a neutral time, not in the middle of an argument.Having an unsupportive mom is difficult enough to accept.  You may feel greater success and peach of mind to meditate on accepting her lack of understanding than to engage in arguing when she starts this.",
+        "upvotes": 0,
+        "views": 257
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 93,
+      "row": {
+        "questionID": 3,
+        "questionTitle": "Why do I feel like I don't belong anywhere?",
+        "questionText": "There are many people willing to lovingly provide me with a home. I have food, clothes, and a university education, but I never feel like I belong. Even when I have a good time with people who are supposed to be close, I feel like I'm just out with friends and I never go home.",
+        "questionLink": "https://counselchat.com/questions/why-do-i-feel-like-i-don-t-belong-anywhere",
+        "topic": "depression",
+        "therapistInfo": "Dr. Meredyth LawrynceServing Clients Nationwide",
+        "therapistURL": "https://counselchat.com/therapists/dr-meredyth-lawrynce",
+        "answerText": "I truly understand what you are saying. I wanted to share this blog post about this very concern! ⛓🔗Are you finally ready to be free 🕊🦅",
+        "upvotes": 1,
+        "views": 62
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 94,
+      "row": {
+        "questionID": 3,
+        "questionTitle": "Why do I feel like I don't belong anywhere?",
+        "questionText": "There are many people willing to lovingly provide me with a home. I have food, clothes, and a university education, but I never feel like I belong. Even when I have a good time with people who are supposed to be close, I feel like I'm just out with friends and I never go home.",
+        "questionLink": "https://counselchat.com/questions/why-do-i-feel-like-i-don-t-belong-anywhere",
+        "topic": "depression",
+        "therapistInfo": "Sherry Katz, LCSWCouples and Family Therapist, LCSW",
+        "therapistURL": "https://counselchat.com/therapists/sherry-katz-lcsw",
+        "answerText": "From the little bit you wrote, my guess is you haven't figured out where and how to lay down your own set of roots.Usually people who have a university level eduction are old enough to work in order to support themselves.Unless you have a medical condition which limits or prevents you from working a full-time job, would you guess that the effort and thought involved in deciding in what professional area and geographic location to look for work, would offer you a way to establish your identity?My suggestion is to pay more attention to your own likes, dislikes, and interests.   To know these areas more deeply would define the type of people with whom you identify, have a common interest and with whom you'd like to socialize.The more you realize who you are, the easier time you'll have to find like-minded others and feel securely at home with them and yourself.Again, if you have a medical disability or condition which prevents employment or easily socializing with other people, then this advice would need to be modified for your specific strengths.",
+        "upvotes": 0,
+        "views": 65
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 95,
+      "row": {
+        "questionID": 3,
+        "questionTitle": "Why do I feel like I don't belong anywhere?",
+        "questionText": "There are many people willing to lovingly provide me with a home. I have food, clothes, and a university education, but I never feel like I belong. Even when I have a good time with people who are supposed to be close, I feel like I'm just out with friends and I never go home.",
+        "questionLink": "https://counselchat.com/questions/why-do-i-feel-like-i-don-t-belong-anywhere",
+        "topic": "depression",
+        "therapistInfo": "Lauren Ostrowski, MA, LPC, NCC, BC-TMH, CCTP, CCHI tailor my therapeutic approach to each client's strengths and goals",
+        "therapistURL": "https://counselchat.com/therapists/lauren-ostrowski-ma-lpc-ncc-bc-tmh-cctp-cch",
+        "answerText": "For some people, having a sense of belonging takes some time.You mentioned that you have an education and some basic daily needs. I wonder if you may be able to look at your relationship with yourself and what makes you feel happy, safe, and having a sense of accomplishment. If you have those feelings, I wonder how you define trust and who you trust.You say you have a good time with people who are \"supposed to be close,\" so I wonder what keeps them from feeling close. I have also wondering if you have been emotionally hurt in the past, and if so, you may have some protective defenses that you use (maybe on purpose, maybe not) to protect yourself from being hurt again. Remember that this idea comes in degrees where you can be more perfect in certain situations and a little less in others. Being emotionally protected is on a spectrum or continuum, where you can make an infinite amount of adjustments or changes with different people and situations.I also wonder what it is that you want in your \"home,\" and how you define it. Consider giving yourself permission to think about how you would define your perfect home in a world where there were no realistic restrictions (such as money or location). After you have that, consider what parts of that you can have. Perhaps there is a small part that you could make a reality within a week or so.Thank you for reaching out. If this continues to be difficult for you, consider seeing a local mental health professional so you can discuss some more specific details.",
+        "upvotes": 0,
+        "views": 73
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 96,
+      "row": {
+        "questionID": 4,
+        "questionTitle": "How can I help my girlfriend?",
+        "questionText": "My girlfriend just quit drinking and she became really depressed. She told me that she wants to move. What can I do to help her? I want her to stay.",
+        "questionLink": "https://counselchat.com/questions/how-can-i-help-my-girlfriend",
+        "topic": "depression",
+        "therapistInfo": "Kristi King-Morgan, LMSWSocial Worker, Psychotherapist",
+        "therapistURL": "https://counselchat.com/therapists/kristi-king-morgan-lmsw",
+        "answerText": "You're probably not going to like my answer.Your question says a lot about what YOU want rather than what she wants or what may be best for her. Sometimes, what's best for a person is the hardest thing to do, and may be completely opposite of what YOU want.Addictions don't happen in a vacuum. If you've had any experience with addicts at all, then I'm sure you've heard the term \"enabler\". A lot of the times, when people think they're \"helping\", they're actually enabling the addict to continue their self-destructive behavior. Tough love and clear boundaries are needed in a lot of situations, but especially with addictions. Family and friends are often the biggest contributing factor to someone choosing to use/drink, continuing to do so, or relapsing back into it.You said she recently quit. You said she is depressed. She wants to move. When a person receives counseling for addictions, they are encouraged to make changes like this. They need to break the habit, and this means removing people from their lives at times. It means moving to new locations. Anything that may trigger a relapse needs to be identified and removed. Not only that, but the addict needs to do a lot of personal reflection to figure out WHY they use/drink in the first place, and not only break the physical addiction to it, but deal with whatever is the root cause that led them to use in the first place. She may need some time alone to figure out who she is as a person, time to make some decisions for herself and do what she needs to do to be healthy.Don't pressure her to stay. Let her have the freedom to do what she needs to do. If she stays, the decision needs to be hers and hers alone. It doesn't need to be made under pressure. That will only lead to resentment. Support her, but don't try to change her or make her do anything, especially for selfish reasons. Let her go. It sounds like she needs some time to focus on herself right now. It wouldn't be a bad idea for you to do the same.",
+        "upvotes": 3,
+        "views": 824
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 97,
+      "row": {
+        "questionID": 4,
+        "questionTitle": "How can I help my girlfriend?",
+        "questionText": "My girlfriend just quit drinking and she became really depressed. She told me that she wants to move. What can I do to help her? I want her to stay.",
+        "questionLink": "https://counselchat.com/questions/how-can-i-help-my-girlfriend",
+        "topic": "depression",
+        "therapistInfo": "Dr. Meredyth LawrynceServing Clients Nationwide",
+        "therapistURL": "https://counselchat.com/therapists/dr-meredyth-lawrynce",
+        "answerText": "Changing scenery often\nhelps in recovery. Could you move with her? \nMoving could help her depression\nalso. Is she also open to therapy?  \nBeing supportive is one way to help her, and allowing her the space and\nways to heal that suits her best.",
+        "upvotes": 0,
+        "views": 103
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 98,
+      "row": {
+        "questionID": 4,
+        "questionTitle": "How can I help my girlfriend?",
+        "questionText": "My girlfriend just quit drinking and she became really depressed. She told me that she wants to move. What can I do to help her? I want her to stay.",
+        "questionLink": "https://counselchat.com/questions/how-can-i-help-my-girlfriend",
+        "topic": "depression",
+        "therapistInfo": "Denisha ForchMarriage and Family Therapist in CA",
+        "therapistURL": "https://counselchat.com/therapists/denisha-forch",
+        "answerText": "I would say talk to her about her depression. The best thing you can do is let her know that you are there for her as a support system. I would encourage her to talk more if it helps and encourage her to get move involved in doing activities she likes to do. Also, getting connected in a community of people is important to help with feeling depressed. Encourage her to speak with a therapist or counselor to address her depression as she has made a major change in her life by deciding to stop drinking. She may believe moving is the best to help with this. You can share with her that you want her to stay and express to her how you feel. Ultimately, you will have to respect her boundaries and the decision she chooses to make. She may want to move and this may be what she feels is best for her life. If she does choose to move that will be her decision. It sounds like she is trying to do what is going to make her happy. Maybe staying in the city she is currently in is causing her more feelings of sadness.",
+        "upvotes": 0,
+        "views": 135
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 99,
+      "row": {
+        "questionID": 4,
+        "questionTitle": "How can I help my girlfriend?",
+        "questionText": "My girlfriend just quit drinking and she became really depressed. She told me that she wants to move. What can I do to help her? I want her to stay.",
+        "questionLink": "https://counselchat.com/questions/how-can-i-help-my-girlfriend",
+        "topic": "depression",
+        "therapistInfo": "Sherry Katz, LCSWCouples and Family Therapist, LCSW",
+        "therapistURL": "https://counselchat.com/therapists/sherry-katz-lcsw",
+        "answerText": "People often have very different values and opinions when they are drinking excessively and when they stop drinking so much.Did the two of you share drinking as an activity?  If yes, then did you stop drinking too?Often when partners meet each other as drinking buddies when one gets sober, the relationship ends.  Once the terms of any relationship changes, one possibility is that it dissolves.The best way to go is to start the conversation of what you genuinely want.  This is the only way she'll really know your thoughts.Ask her to give serious consideration and discussion over at least a few weeks or months, to moving away from you.  This is a fair request since you are in a relationship.If she's changed so much by giving up drinking, which is possible, that she no longer wants to be in relationship to you, then you are better off being without a drinking gf, even if the truth she delivers is a hurtful one.",
+        "upvotes": 0,
+        "views": 126
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 100,
+      "row": {
+        "questionID": 4,
+        "questionTitle": "How can I help my girlfriend?",
+        "questionText": "My girlfriend just quit drinking and she became really depressed. She told me that she wants to move. What can I do to help her? I want her to stay.",
+        "questionLink": "https://counselchat.com/questions/how-can-i-help-my-girlfriend",
+        "topic": "depression",
+        "therapistInfo": "Richie (Yerachmiel) DonowitzExperienced - Compassionate- Measurable Results",
+        "therapistURL": "https://counselchat.com/therapists/richie-yerachmiel-donowitz",
+        "answerText": "After stopping the abuse of alcohol, depressive symptoms are common. She may benefit from exploring why she wants to move and see if she would still want to move if she did not feel depressed. 12 step meetings can also be helpful.",
+        "upvotes": 0,
+        "views": 101
+      },
+      "truncated_cells": []
+    }
+  ],
+  "num_rows_total": 2775,
+  "num_rows_per_page": 100,
+  "partial": false
+}

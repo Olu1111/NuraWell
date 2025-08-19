@@ -1,0 +1,4 @@
+node_modules
+.env
+xformers/
+notebook/chroma_langchain_db/
